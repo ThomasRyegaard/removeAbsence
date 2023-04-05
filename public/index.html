@@ -28,6 +28,7 @@
         updateUI('Unable to reach shell eventAPI');
         disableButton();
       } else {
+        updateUI('Reached shell eventAPI');
         // Initialise ShellSDK to connect with parent shell library
         const shellSdk = ShellSdk.init(parent, '*');
 
