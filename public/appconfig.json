@@ -1,0 +1,7 @@
+{
+  "name": "Worktime Removal",
+  "provider": "SAP FSM",
+  "description": "Extension to remove worktime from FSM when integrated with ERP",   
+  "version": "1.0.0", 
+  "icon": ""
+}
